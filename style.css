@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("./media/pexels-mikechie-esparagoza-1742370.jpg");
+  background-size: cover;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+}
