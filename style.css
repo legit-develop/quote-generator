@@ -19,3 +19,8 @@ body {
   margin: 10px;
   text-align: center;
 }
+
+.heading {
+  font-size: 30px;
+  font-weight: 600;
+}
