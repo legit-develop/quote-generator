@@ -9,3 +9,13 @@ body {
   align-items: center;
   font-family: "Courier New", Courier, monospace;
 }
+
+.container {
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  border-radius: 15px;
+  width: 90%; /*adjustment for smaller screens */
+  margin: 10px;
+  text-align: center;
+}
