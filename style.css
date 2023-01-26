@@ -16,7 +16,7 @@ body {
   padding: 30px;
   border-radius: 15px;
   width: 90%; /*adjustment for smaller screens */
-  max-width: 400px;
+  max-width: 600px;
   margin: 10px;
   text-align: center;
 }
@@ -35,6 +35,7 @@ body {
   font-size: 23px;
   margin: 10px;
   font-style: italic;
+  font-weight: 500;
 }
 
 .btn {
@@ -54,4 +55,8 @@ body {
   transition: all 300ms ease;
   color: #03001c;
   font-weight: 600;
+}
+
+#quote {
+  font-weight: 700;
 }
