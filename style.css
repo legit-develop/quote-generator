@@ -16,6 +16,7 @@ body {
   padding: 30px;
   border-radius: 15px;
   width: 90%; /*adjustment for smaller screens */
+  max-width: 400px;
   margin: 10px;
   text-align: center;
 }
@@ -34,4 +35,15 @@ body {
   font-size: 23px;
   margin: 10px;
   font-style: italic;
+}
+
+.btn {
+  font-size: 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 10px 30px;
+  margin-top: 15px;
+  background: #fff2f2;
+  border-color: rgba(255, 255, 255, 0.3);
+  text-transform: uppercase;
 }
